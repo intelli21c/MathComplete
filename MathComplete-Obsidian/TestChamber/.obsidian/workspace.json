@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "46324ced324970b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c6cbc676e5ff9d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6246b60151cb53a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "f687aa794c6534b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Test1"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a80edb106666deba",
+    "type": "split",
+    "children": [
+      {
+        "id": "318dee54d8be2e53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8eaa4af1bb566536",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "dd44e732508f3504",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5b65abec112da663",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f6fd66974ba86b89",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa172891e9860233",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb4f641b7199f594",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "7db758d4753bc6ea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "99f5093cc1f4a498",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "545673d3d60a161b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "19b4e170be7ba708",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "f687aa794c6534b0",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "Test1.md",
+    "obsidian-sample-plugin/node_modules/@types/json5/types-metadata.json",
+    "obsidian-sample-plugin/node_modules/@types/json5/README.md",
+    "obsidian-sample-plugin/node_modules/@types/json5/package.json",
+    "obsidian-sample-plugin/node_modules/@types/json5/index.d.ts",
+    "obsidian-sample-plugin/node_modules/@types/json5",
+    "obsidian-sample-plugin/node_modules/@types/node/README.md",
+    "obsidian-sample-plugin/node_modules/@types/node/readline.d.ts",
+    "obsidian-sample-plugin/node_modules/@types/node/querystring.d.ts",
+    "obsidian-sample-plugin/node_modules/@types/node/punycode.d.ts",
+    "obsidian-sample-plugin/node_modules/@types/node/process.d.ts",
+    "obsidian-sample-plugin/node_modules/@types/node/perf_hooks.d.ts",
+    "obsidian-sample-plugin/node_modules/@types/node/path.d.ts",
+    "obsidian-sample-plugin/node_modules/@types/estree/README.md",
+    "obsidian-sample-plugin/node_modules/@types/eslint/README.md",
+    "obsidian-sample-plugin/node_modules/@types/codemirror/README.md",
+    "obsidian-sample-plugin/node_modules/@rtsao/scc/README.md",
+    "obsidian-sample-plugin/node_modules/@microsoft/eslint-plugin-sdl/node_modules/eslint-plugin-security/README.md",
+    "obsidian-sample-plugin/node_modules/@microsoft/eslint-plugin-sdl/node_modules/eslint-plugin-security/CHANGELOG.md",
+    "obsidian-sample-plugin/node_modules/@microsoft/eslint-plugin-sdl/docs/rules/no-winjs-html-unsafe.md",
+    "obsidian-sample-plugin/node_modules/@microsoft/eslint-plugin-sdl/docs/rules/no-unsafe-alloc.md",
+    "obsidian-sample-plugin/node_modules/@microsoft/eslint-plugin-sdl/docs/rules/no-postmessage-star-origin.md",
+    "obsidian-sample-plugin/node_modules/@microsoft/eslint-plugin-sdl/docs/rules/no-msapp-exec-unsafe.md",
+    "obsidian-sample-plugin/node_modules/@microsoft/eslint-plugin-sdl/docs/rules/no-insecure-url.md",
+    "obsidian-sample-plugin/node_modules/@microsoft/eslint-plugin-sdl/docs/rules/no-insecure-random.md",
+    "obsidian-sample-plugin/node_modules/@microsoft/eslint-plugin-sdl/docs/rules/no-inner-html.md",
+    "obsidian-sample-plugin/node_modules/@microsoft/eslint-plugin-sdl/docs/rules/no-html-method.md",
+    "obsidian-sample-plugin/node_modules/@microsoft/eslint-plugin-sdl/docs/rules/no-electron-node-integration.md",
+    "obsidian-sample-plugin/node_modules/@microsoft/eslint-plugin-sdl/docs/rules/no-document-write.md",
+    "obsidian-sample-plugin/node_modules/@microsoft/eslint-plugin-sdl/docs/rules/no-document-domain.md",
+    "obsidian-sample-plugin/node_modules/@microsoft/eslint-plugin-sdl/docs/rules/no-cookies.md",
+    "obsidian-sample-plugin/node_modules/@microsoft/eslint-plugin-sdl/docs/rules/no-angularjs-sanitization-whitelist.md",
+    "obsidian-sample-plugin/node_modules/@microsoft/eslint-plugin-sdl/docs/rules/no-angularjs-enable-svg.md",
+    "obsidian-sample-plugin/node_modules/@microsoft/eslint-plugin-sdl/docs/rules/no-angularjs-bypass-sce.md",
+    "obsidian-sample-plugin/node_modules/@microsoft/eslint-plugin-sdl/docs/rules/no-angular-bypass-sanitizer.md"
+  ]
+}
